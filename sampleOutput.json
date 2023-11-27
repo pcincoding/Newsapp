@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Iran protests: Football star Ali Karimi under travel ban, leaked papers show",
+            "description": "Leaked papers seen by the BBC show Iran has targeted Ali Karimi for showing support for protesters.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-65473415",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/825B/production/_129617333_gettyimages-53237215.jpg",
+            "publishedAt": "2023-05-06T08:22:20.3808491Z",
+            "content": "Iran imposed a travel ban on football star Ali Karimi, his wife and her family during the recent anti-government protests, leaked documents seen by the BBC show.\r\nMr Karimi was among the first celebr… [+2761 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "Former NFL first-rounder Reuben Foster enjoying return to pro football in USFL",
+            "description": "Reuben Foster on his opportunity with the Pittsburgh Maulers: \"I love football, man. ... I'm not taking it for granted.\"",
+            "url": "http://www.foxsports.com/stories/usfl/former-nfl-first-rounder-reuben-foster-enjoying-return-to-pro-football-in-usfl",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/1408/814/foster-wide-050523.jpg?ve=1&tl=1",
+            "publishedAt": "2023-05-05T22:31:04Z",
+            "content": "The first weekend of the 2023 USFL season was extra special for Pittsburgh Maulers linebacker Reuben Foster.\r\nThough the Maulers suffered a season-opening loss to the New Orleans Breakers, it marked … [+3924 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "Are Texas, TCU primed to rule the Big 12 in 2023?",
+            "description": "Laken Litman appeared on the latest edition of “The Number One College Football Show\" to discuss the Longhorns and Horned Frogs following spring football.",
+            "url": "http://www.foxsports.com/stories/college-football/are-texas-tcu-primed-to-rule-the-big-12-in-2023",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/1408/814/sonny-sark-wide-050523.jpg?ve=1&tl=1",
+            "publishedAt": "2023-05-05T21:56:39Z",
+            "content": "A pair of teams from Texas headline the 2023 Big 12college football offseason.\r\nOf course, the TCU Horned Frogs are coming off appearing in the College Football Playoff National Championship Game, th… [+4355 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
